@@ -10,4 +10,3 @@ python-multipart
 pydantic
 scipy
 langchain-community
-lanhchain_huggingface
